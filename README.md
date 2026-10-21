@@ -1,1 +1,2 @@
-# NurseryKart-Project  
+# Nurserycart-Project  
+E-Commerce project 
